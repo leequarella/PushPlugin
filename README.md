@@ -133,7 +133,7 @@ where
 
 Alternatively this plugin can be installed using the Phonegap CLI.
 
-1) Navigaate to the root folder for your phonegap project.
+1) Navigate to the root folder for your phonegap project.
 2) Run the command.
 
 ```sh
